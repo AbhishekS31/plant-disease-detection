@@ -100,7 +100,7 @@ python main.py test --model mobilenet_v2 --freeze
   - Factor: 0.1
 
 ## Notes
-- Ensure the `weights/<model_name>.pth` file exists before testing. If not, train the model first.
+- Ensure the `weights/<model_name>.pth` file exists before testing. If not, then train the model first.
 - The PlantVillage dataset is automatically downloaded and prepared by the script.
 
 ## References
