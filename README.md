@@ -11,7 +11,7 @@ This project implements a deep learning pipeline for detecting plant diseases us
 - Visualization of training statistics (loss and accuracy).
 
 ## Requirements
-- Python 3.7+
+- Python 3.8+
 - PyTorch 1.10+
 - torchvision
 - NumPy
